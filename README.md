@@ -27,8 +27,9 @@ Caso não tenha o ghc instalado, instale com o comando `curl --proto '=https' --
 ### Gerando executavel
 Caso queira um executavel otimizado - use o comando: `ghc -O2 main.hs -o wordgraph` ou o nome que desejar. e depois use `./wordgraph <arquivo>`
 
+---
+
 ## [Exemplo]
-## Exemplo
 
 ```bash
 runghc main.hs teste.txt
